@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hey, I’m Raven
 
-I’m a programmer focused on web design and modern web experiences—I like building things that look good and work well under the hood. I spend most of my time turning ideas into responsive, scalable websites and experimenting with automation and performance improvements.
+I’m a programmer focused on web design and modern web experiences. I like building things that look good and work well under the hood. I spend most of my time turning ideas into responsive, scalable websites and experimenting with automation and performance improvements.
 
 When I’m not coding, you’ll probably find me gaming, breaking things for fun, or learning new ways to write cleaner, smarter code.
 
