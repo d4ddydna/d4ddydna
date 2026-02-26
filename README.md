@@ -3,7 +3,7 @@
 
 I’m a programmer focused on web design and modern web experiences. I like building things that look good and work well under the hood. I spend most of my time turning ideas into responsive, scalable websites and experimenting with automation and performance improvements.
 
-When I’m not coding, you’ll probably find me gaming, breaking things for fun, or learning new ways to write cleaner, smarter code.
+When I’m not coding, you’ll probably find me gaming, cooking for fun, or learning new ways to write cleaner, smarter code.
 
 I’m also the founder of Lionheart Design, where I work on web design, development, and tech-driven solutions for businesses that want to grow with intention.
 
